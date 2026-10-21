@@ -1,4 +1,4 @@
-# Elastic Stack (ELK)
+# Elastic Stack
 
 ELK started as a tool for storing and searching large amounts of data and monitoring app performance. SOC teams now use it as a SIEM. It's open source, which is a big part of its popularity.
 
