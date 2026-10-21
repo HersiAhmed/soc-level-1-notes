@@ -13,6 +13,7 @@ These are written as **what I learned and how I'd explain it**, not as room answ
 | [splunk.md](splunk.md) | Splunk | Forwarder, indexer, search head, uploading data, my first SPL searches |
 | [elk.md](elk.md) | Elastic Stack (ELK) | Beats, Logstash, Elasticsearch, Kibana, KQL, visualizations, dashboards |
 | [soar.md](soar.md) | SOAR | Orchestration vs automation, playbooks (phishing, CVE patching) |
+| [pyramid-of-pain.md](pyramid-of-pain.md) | Pyramid of Pain | All six indicator levels, Fast Flux, Punycode, sandbox reports, fuzzy hashing, TTPs |
 
 ## How it all fits together
 
