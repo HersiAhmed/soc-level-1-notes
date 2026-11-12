@@ -48,7 +48,7 @@ Analyst  ── judgment calls, deeper investigation, tuning rules
 | 4688 | New process created |
 | 104 | Event log cleared |
 
-**True vs false positive**
+**True vs False positive**
 
 1. Investigate the alert and the events behind it
 2. Decide: real threat (true positive) or false alarm (false positive)
