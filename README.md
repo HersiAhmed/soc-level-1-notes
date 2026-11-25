@@ -18,6 +18,7 @@ These are written as **what I learned and how I'd explain it**, not as room answ
 | [08-unified-kill-chain.md](08-unified-kill-chain.md) | Unified Kill Chain | Threat modelling, the 18 phases (In / Through / Out), what defenders watch for |
 | [09-mitre.md](09-mitre.md) | MITRE frameworks | ATT&CK matrix and IDs, CAR detection queries, D3FEND, emulation tools |
 | [10-phishing-email-analysis.md](10-phishing-email-analysis.md) | Phishing and email analysis | Email protocols, headers, HTML bodies, attachments, red flags, defanging |
+| [11-phishing-samples.md](11-phishing-samples.md) | Phishing samples in action | Six real-style samples: spoofing, URL shorteners, tracking pixels, redirect chains, credential harvesting, malicious attachments |
 
 ## How it all fits together
 
@@ -48,7 +49,7 @@ Analyst  ── judgment calls, deeper investigation, tuning rules
 | 4688 | New process created |
 | 104 | Event log cleared |
 
-**True vs False positive**
+**True vs false positive**
 
 1. Investigate the alert and the events behind it
 2. Decide: real threat (true positive) or false alarm (false positive)
